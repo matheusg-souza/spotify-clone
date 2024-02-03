@@ -22,7 +22,7 @@ O projeto consiste em um clone do Spotify, utilizando HTML, CSS e JS a aplica√ß√
 
 ## Link do projeto
 
-[Clique aqui para visitar o projeto!](xd)
+[Clique aqui para visitar o projeto!](https://spotify-clone-eta-gold.vercel.app)
 
 ### Preview
 <img src="./preview/projeto.png">
